@@ -26,7 +26,7 @@ def etapa3(senha):
     if primeirocaracter != segundocaracter:
         print('senha inválida')
     if ultimocaracter != primeirocaracter and segundocaracter and terceirocaracter:
-        print('senha inválida')
+        print('senha invalida')
     return False
 
 
